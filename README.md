@@ -1,10 +1,10 @@
-# yourwaifu
+# yourhusbando
 
-A twitter bot that will respond to mentions with a randomly picked person, which resembles your perfect waifu material
+A twitter bot that will respond to mentions with a randomly picked person, which resembles your perfect husbando material
 
 ## Usage
 
-`ruby waifu.rb`
+`ruby husbando.rb`
 
 ## Setup
 
@@ -19,11 +19,9 @@ Add your consumer/access token keys/secrets to `config.yml.example` and rename i
 
 ## Contributing
 
-Missing your waifu? Make a Pull Request/Issue with your waifu (+ series they are from) and they might be added!
+Missing your husbando? Make a Pull Request/Issue with your husbando (+ series they are from) and they might be added!
 
 ## Contributors
 
-* [ch1zuru](https://github.com/ch1zuru) for the idea
-* [nilsding](http://github.com/nilsding) for help with coding
-* [SakisaKawaii](http://twitter.com/SakisaKawaii) for help with the request listing
-* Everyone who contributes to the list!
+* [pixeldesu](https://github.com/pixeldesu) for the original [yourwaifu](https://github.com/pixeldesu/yourwaifu) bot that I cloned the repo of~!
+* Twitter people to be added as the list is grown
